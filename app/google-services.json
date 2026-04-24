@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "302234948693",
-    "project_id": "visitsafe-7f1db",
-    "storage_bucket": "visitsafe-7f1db.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:302234948693:android:039416b2537c81e614b0dc",
+        "mobilesdk_app_id": "1:302234948693:android:",
         "android_client_info": {
           "package_name": "com.example.visitsafe"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCFUODXqDqHA6rIlmsZnI0OD1z9DwiMxt8"
+          "current_key": ""
         }
       ],
       "services": {
